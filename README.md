@@ -31,5 +31,6 @@ With the help of topic modelling, we will be able to map each ticket onto its re
 ## Dataset
 
 The data set given to us is in the .json format and contains 78,313 customer complaints with 22 features. We need to convert this to a dataframe in order to process the given complaints.
-Download dataset : https://drive.google.com/file/d/1Y4Yzh1uTLIBLnJq1_QvoosFx9giiR1_K/view
+
+- Download dataset : https://drive.google.com/file/d/1Y4Yzh1uTLIBLnJq1_QvoosFx9giiR1_K/view
  
